@@ -1,0 +1,8 @@
+<svg id="Component_6_25" data-name="Component 6 – 25" xmlns="http://www.w3.org/2000/svg" width="27" height="27" viewBox="0 0 27 27">
+  <circle id="Ellipse_171" data-name="Ellipse 171" cx="13.5" cy="13.5" r="13.5" fill="#fff"/>
+  <g id="instagram" transform="translate(6.749 6.75)">
+    <path id="Path_2186" data-name="Path 2186" d="M9.789,0H4.154A4.158,4.158,0,0,0,0,4.154V9.789a4.158,4.158,0,0,0,4.154,4.154H9.789a4.158,4.158,0,0,0,4.154-4.154V4.154A4.158,4.158,0,0,0,9.789,0ZM12.54,9.789A2.751,2.751,0,0,1,9.789,12.54H4.154A2.751,2.751,0,0,1,1.4,9.789V4.154A2.751,2.751,0,0,1,4.154,1.4H9.789A2.751,2.751,0,0,1,12.54,4.154V9.789Z" transform="translate(0 0)" fill="#2c406e"/>
+    <path id="Path_2187" data-name="Path 2187" d="M136.606,133a3.606,3.606,0,1,0,3.606,3.606A3.61,3.61,0,0,0,136.606,133Zm0,5.81a2.2,2.2,0,1,1,2.2-2.2A2.2,2.2,0,0,1,136.606,138.81Z" transform="translate(-129.635 -129.635)" fill="#2c406e"/>
+    <ellipse id="Ellipse_168" data-name="Ellipse 168" cx="0.864" cy="0.864" rx="0.864" ry="0.864" transform="translate(9.72 2.528)" fill="#2c406e"/>
+  </g>
+</svg>

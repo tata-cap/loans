@@ -1,0 +1,16 @@
+<svg id="Component_6_25" data-name="Component 6 – 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.008" x2="0.5" y2="0.998" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e09b3d"/>
+      <stop offset="0.3" stop-color="#c74c4d"/>
+      <stop offset="0.6" stop-color="#c21975"/>
+      <stop offset="1" stop-color="#7024c4"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellipse_171" data-name="Ellipse 171" cx="13.5" cy="13.5" r="13.5" fill="url(#linear-gradient)"/>
+  <g id="instagram" transform="translate(6.687 6.687)">
+    <path id="Path_2186" data-name="Path 2186" d="M9.767,0H4.144A4.149,4.149,0,0,0,0,4.144V9.767a4.149,4.149,0,0,0,4.144,4.144H9.767a4.149,4.149,0,0,0,4.144-4.144V4.144A4.149,4.149,0,0,0,9.767,0Zm2.745,9.767a2.745,2.745,0,0,1-2.745,2.745H4.144A2.745,2.745,0,0,1,1.4,9.767V4.144A2.745,2.745,0,0,1,4.144,1.4H9.767a2.745,2.745,0,0,1,2.745,2.745V9.767Z" transform="translate(0 0)" fill="#fff"/>
+    <path id="Path_2187" data-name="Path 2187" d="M135.468,133a2.468,2.468,0,1,0,2.468,2.468A2.471,2.471,0,0,0,135.468,133Zm0,3.976a1.508,1.508,0,1,1,1.508-1.508A1.508,1.508,0,0,1,135.468,136.976Z" transform="translate(-128.513 -128.513)" fill="#fff"/>
+    <ellipse id="Ellipse_168" data-name="Ellipse 168" cx="1.152" cy="1.152" rx="1.152" ry="1.152" transform="translate(9.236 2.402)" fill="#fff"/>
+  </g>
+</svg>
